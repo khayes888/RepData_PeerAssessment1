@@ -2,12 +2,11 @@
 title: 'Reproducible Research Assn #1'
 author: "Kyle Hayes"
 date: "January 27, 2018"
-output: html_document
+output: md_document
+keep_md: true
+self_contained: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Introduction
 
